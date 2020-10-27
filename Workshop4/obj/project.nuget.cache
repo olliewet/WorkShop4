@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SFxMS3AjTbFqkdjEEklTNZGbkhDmi724a98OdOsIsgQtB+BT6euBzIJ36JNLy6N+GORf2zlncIiNWCFPk7IGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ollie\\Desktop\\Work\\Year 4\\Maintaining Large Software Systems\\Labs\\Workshop 4\\WorkShop4\\Workshop4\\Workshop4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ollie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
